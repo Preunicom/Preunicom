@@ -6,7 +6,7 @@
 🔭 I’m currently working on different projects using Microchip microcontrollers as well as projects using the Digilent Cmod A7 35T FPGA and Vivado.
 
 🌱 I’m currently learning about:
--- Build tools like Make and CMake
+- Build tools like Make and CMake
 - Different low level protocols like UART, SPI, I2C, etc.
 - Using C/C++ optimized for embedded systems.
 - Building more complex VHDL systems
