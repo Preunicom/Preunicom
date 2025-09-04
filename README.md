@@ -10,7 +10,7 @@
 - Different low level protocols like UART, SPI, I2C, etc.
 - Using C/C++ optimized for embedded systems.
 - Building more complex VHDL systems
-
+- Designing printed circuit boards and soldering them, working with both 0603 SMD and THT components
 
 <!--
 **Preunicom/Preunicom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
